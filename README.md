@@ -1,2 +1,2 @@
 # python-aws-s3
-Gerenciamento de S3 com Python
+Gerenciamento de AWS S3 com Python
